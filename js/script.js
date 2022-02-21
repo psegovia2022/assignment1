@@ -204,8 +204,8 @@
 // };
 // console.log(typeof(paulina));
 
-let z;
-console.log(typeof(z));
+// let z;
+// console.log(typeof(z));
 
 
 
@@ -217,13 +217,30 @@ console.log(typeof(z));
 // to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
 
 
+// alert("Hello" + " Paulina Segovia" + ", welcome to the Javascript class!");
+
+
+
+
 // //STEP 12
 // Declare a variable called name and set it equal to your name. 
 // Substitute your name in the previous alert string with the variable instead.
+// let name = "Paulina Segovia";
+// alert("Hello " + name + ", welcome to the Javascript class!");
+
+
+
 
 // //STEP 13
 // Declare a variable called course and set it equal to “JavaScript”. 
 // Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
+// let name = "Paulina Segovia";
+// let course = "JavaScript";
+// alert("Hello " + name + ", welcome to the " + course + " class!");
+
+
+
+
 
 // //STEP 14
 
@@ -231,6 +248,13 @@ console.log(typeof(z));
 // display as follows:
 // Hello Zak Ruvalcaba.
 // Welcome to the JavaScript class!
+
+// let firstName = "Paulina";
+// let lastName = "Segovia";
+// let course = "JavaScript";
+// alert("Hello " + firstName + " " + lastName + ".\n" + "Welcome to the " + course + " class!");
+
+
 
 
 // //STEP 15
