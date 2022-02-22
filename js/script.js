@@ -261,34 +261,102 @@
 // Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response 
 // will now be captured in the name variable. 
 
+// let yourName = prompt("What is your name?");
+// console.log(yourName);
+
+
+
+
 // //STEP 16
 // Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are 
 // taking. The prompt’s response will now be captured in the course variable.
+
+// let course = prompt("What class are you taking?");
+// console.log(course);
+
+
+
+
+
 
 // //STEP 17
 // Declare a variable called x and assign it a value of 10. 
 // Declare a variable called y and assign it a value of 20. 
 // Display the sum of those two numbers in the console window. 
 
+// let x = 10;
+// let y = 20;
+// console.log(x + y);
+
+
+
+
+
 // //STEP 18
 // Declare a variable called x and assign it a value of 20. 
 // Add and assign 20 to that variable and display the result in the console window.
 // The result should be 40.
+
+// let x = 20;
+// let total = x + 20;
+// console.log(total);
+
+
+
+
 
 // //STEP 19
 // Declare a variable called x and assign it a value of 20.
 // Multiply and assign 5 to that variable and display the result in the console window. 
 // The result should be 100.
 
+// let x;
+// x = 20;
+// let total = x * 5;
+// console.log(total);
+
+
+
+
+
 // //STEP 20
 // Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
 // Divide and assign 1 to that variable and display the result in the console window. 
 // The result should be 2. If you got 6.66 try again.
 
+// let x = 20 % 3;
+// total = x / 1;
+// console.log(total);
+
+
+
+
+
 // //STEP 21
 // Using a set of Comparison and Logical operators, write an application that evaluates to true and displays the result 
 // within the console window.
 
+// let x = 3;
+// let y = 4;
+// if (x < y) {
+//     console.log("Hello")
+// }
+// else {
+//     console.log("Bye!")
+// };
+
+
+
+
 // //STEP 22
 // Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result 
 // within the console window. The application cannot use the same operators used in the previous application.
+
+let x = 5;
+let y = 4;
+if (x < y) {
+    console.log("Hello")
+}
+else {
+    console.log("Bye!")
+};
